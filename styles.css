@@ -1,0 +1,18 @@
+.content{
+    max-width: 900px;
+    margin: 1em auto;
+    font-family: 'Cantarell', sans-serif;
+}
+h1{
+    font-family: 'Fjalla One', sans-serif;
+}
+.content li{
+    text-transform: lowercase;
+    margin-bottom: 1em;
+}
+.content span {
+    text-transform: capitalize;
+}
+.name{
+    font-weight: bold;
+}
